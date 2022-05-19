@@ -29,7 +29,7 @@ I am a Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve train, play VR games and meet with friends.
+- :zap: In my free time, I train :running_woman:, play VR games :video_game: and meet with friends :dancers:.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/vanessaannamariaandersson/)
 
