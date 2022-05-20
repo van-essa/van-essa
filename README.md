@@ -27,9 +27,11 @@
 I am a Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> living in Sweden.
 - :woman_student: I’m am a Full Stack Software Developer Student, focusing in Predictive Analytics at Code Institute.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I like data analytics, contributing to reducing carbon footprint and making people smile!
 
 - :zap: In my free time, I train :running_woman:, play VR games :video_game: and meet with friends :dancers:.
+
+- :lion: My moto: "Hakuna Matata". 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/vanessaannamariaandersson/)
 
