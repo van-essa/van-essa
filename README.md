@@ -25,7 +25,7 @@
 
 ### :woman_technologist: About Me :
 I am a Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> living in Sweden.
-- :woman_student: I’m am a Full Stack Software Developer Student, focusing in Predictive Analytics at Code Institute.
+- :woman_student: I’m am a Full Stack Software Developer Student, focusing in Predictive Analytics at [Code Institute](https://codeinstitute.net/se/).
 
 - :seedling: I like data analytics, contributing to reducing carbon footprint and making people smile!
 
