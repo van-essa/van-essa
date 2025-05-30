@@ -29,7 +29,7 @@ I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :seedling: I like data analytics, contributing to reducing carbon footprint and making people smile!
 
-- :zap: In my free time, I train :running_woman:, play VR games :video_game: and meet with friends :dancers:.
+- :zap: In my free time, I train :running_woman:, play video games :video_game: and meet with friends :dancers:.
 
 - :lion: My moto: "Hakuna Matata". 
 
